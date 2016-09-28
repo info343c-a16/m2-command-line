@@ -18,7 +18,7 @@ The command-line, or "terminal", is a simple text-based interface for providing 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Resources
-- [Codecademny Exercises](https://www.codecademy.com/en/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command)
+- [Codecademy Exercises](https://www.codecademy.com/en/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command)
 - [Terminal Commands](http://www.lagmonster.org/docs/unix/intro-137.html)
 
 ## File System Structure
